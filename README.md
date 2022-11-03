@@ -1,5 +1,5 @@
 # CloudFormation - Infrastructure As a Code
-Infrastructure as a code using CloudFormation
+Infrastructure as a code using CloudFormation example
 
 # What's AWS CloudFormation
 
