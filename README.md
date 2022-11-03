@@ -9,7 +9,7 @@ It can also be described as infrastructure automation or Infrastructure-as-Code 
 
 # Steps to create the stack on your AWS account :
 
-## Install AWS CLI
+## 1- Install AWS CLI
 
 First of all you need to install AWS CLI you can follow the installation guid via the link below : 
 
@@ -17,7 +17,7 @@ First of all you need to install AWS CLI you can follow the installation guid vi
     
     
 
-## Connect to your aws account
+## 2- Connect to your aws account
 
 Using your cmd go to the project path and connect to your AWS account using the command `aws-configure` and enter the following information :
 
@@ -27,7 +27,7 @@ Using your cmd go to the project path and connect to your AWS account using the 
   - File format (We are usin .yaml file format in this example)
 
 
-## Create your stack
+## 3- Create your stack
 
 Using the following command in your project path  your stack will  be created : 
 
