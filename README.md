@@ -29,6 +29,6 @@ Using your cmd go to the project path and connect to your AWS account using the 
 
 ## 3- Create your stack
 
-Using the following command in your project path  your stack will  be created : 
+Using the following command in your cmd at your project path to create the stack: 
 
 `aws cloudformation create-stack --stack-name UdgramApp --template-body file://final-project-starter.yml  --parameters file://server-parameters.json --capabilities "CAPABILITY_IAM" "CAPABILITY_NAMED_IAM" --region=us-west-1`
