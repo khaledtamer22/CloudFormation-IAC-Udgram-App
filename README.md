@@ -24,7 +24,7 @@ Using your cmd go to the project path and connect to your AWS account using the 
   - AWSAccessKeyId
   - AWSSecretKey
   - Region
-  - File format (We are usin .yaml file format in this example)
+  - File format (We are using .yaml file format in this example)
 
 
 ## 3- Create your stack
